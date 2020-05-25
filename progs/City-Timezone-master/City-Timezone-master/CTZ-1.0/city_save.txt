@@ -1,0 +1,1 @@
+{'Hangzhou': 'Asia/Shanghai', 'Bangalore': 'Asia/Kolkata', 'Espoo': 'Europe/Helsinki', 'Wroclaw': 'Europe/Warsaw', 'Paris-Saclay': 'Europe/Paris', 'Timisoara': 'Europe/Bucharest', 'Arlington Heights': 'America/Chicago', 'Irving': 'America/Chicago', 'Naperville': 'America/Chicago', 'Ulm': 'Europe/Berlin', 'UTC': 'UTC'}

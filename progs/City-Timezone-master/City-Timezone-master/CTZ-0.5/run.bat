@@ -1,0 +1,2 @@
+pythonw UI.py
+exit

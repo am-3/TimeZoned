@@ -1,0 +1,5 @@
+*.exe linguist-language=python
+*.toc linguist-language=python
+*.txt linguist-language=python
+*.md linguist-language=python
+*.html linguist-language=python
